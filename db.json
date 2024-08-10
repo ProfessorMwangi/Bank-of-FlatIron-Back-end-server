@@ -134,7 +134,7 @@
     },
     {
       "id": "ea1d",
-      "category": "food",
+      "category": "fashion",
       "date": "2024-08-07",
       "amount": "-1000"
     },
@@ -146,9 +146,9 @@
     },
     {
       "id": "d81b",
-      "category": "food",
+      "category": "income",
       "date": "2024-08-09",
-      "amount": "-10000"
+      "amount": "10000"
     },
     {
       "id": "3ac0",
